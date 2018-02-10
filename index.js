@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import PanResponderSample from './PanResponderSample';
+import SimpleList from './SimpleList';
 
-AppRegistry.registerComponent('FirstProject', () => PanResponderSample);
+AppRegistry.registerComponent('FirstProject', () => SimpleList);
