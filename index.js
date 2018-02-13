@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import BookList from './MockBookList';
+import BookList from './BookList';
 
 AppRegistry.registerComponent('FirstProject', () => BookList);
